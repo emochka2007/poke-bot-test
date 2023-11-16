@@ -1,0 +1,5 @@
+export const ENTRY_SCENE_ID = 'ENTRY_SCENE_ID';
+export const WIZARD_SCENE_ID = 'WIZARD_SCENE_ID';
+export const RANDOM_POKE_SCENE_ID = 'RANDOM_POKE';
+export const BATTLE_POKE_SCENE_ID = 'BATTLE_POKE';
+export const RATING_SCENE_ID = 'RATING_SCENE_ID';
